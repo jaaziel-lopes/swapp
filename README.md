@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Ferramentas
+
+- **Node.js** versão 12
+- **NPM** versão 6
